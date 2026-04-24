@@ -47,7 +47,7 @@ Delivering complex, multi-vendor, multi-stakeholder IT programs using Agile, Wat
 | SAFe Scrum Master (SAFe SM) | Scaled Agile | ✅ Active |
 | AWS AI Practitioner | Amazon Web Services | ✅ Active |
 | Data Science Certificate | University of Lethbridge | ✅ Complete |
-| DAMA CDMP | DAMA International | 🔄 In Progress |
+| DAMA CDMP | DAMA International | ✅ Complete |
 
 ---
 
