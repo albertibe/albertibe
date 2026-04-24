@@ -62,7 +62,7 @@ A practical, implementation-ready enterprise Data Governance toolkit — built f
 
 ---
 
-### 📋 [ba-pm-portfolio](https://github.com/albertibe/ba-pm-portfolio)
+### 📋 [Senior_business_Analyst-technical_Project_manager-portfolio](https://github.com/albertibe/Senior_business_Analyst-technical_Project_manager-portfolio)
 Senior Business Analyst and IT Project Manager artifacts from real enterprise delivery — $100M+ program portfolios, cross-functional teams of 25+, and global manufacturing environments.
 
 **Includes:** Project Charter · Business Requirements Document (BRD) · Risk Register · Stakeholder Register · Current/Future State Process Maps (Mermaid) · UAT Test Plan · Executive Status Report · Lessons Learned · Three end-to-end case studies
