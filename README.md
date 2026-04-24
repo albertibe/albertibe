@@ -2,7 +2,7 @@
 
 **Senior Business Analyst | IT Project Manager | Data Governance & Analytics Leader**  
 📍 Calgary, AB | Open to Remote Roles Across Canada  
-🔗 [LinkedIn](https://www.linkedin.com/in/albertibe) | 📧 albert.ibeo@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/albertibe) | 📧 albert.ibe.ca@gmail.com
 
 ---
 
