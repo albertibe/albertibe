@@ -71,7 +71,7 @@ Senior Business Analyst and IT Project Manager artifacts from real enterprise de
 
 ---
 
-### 📊 [cot-analytics-lss-portfolio](https://github.com/albertibe/cot-analytics-lss-portfolio)
+### 📊 [[cot-analytics-lss-portfolio](https://github.com/albertibe/cot-analytics-lss-portfolio)](https://github.com/albertibe/Analytics_Lean_Six_Sigma_Portfolio)
 Full Lean Six Sigma DMAIC engagement portfolio from a 12-month, $4.2M data analytics and process improvement program — City of Toronto (via ECG consulting).
 
 **Includes:** LSS Project Charter + SIPOC · Measurement System Analysis · Fishbone/Ishikawa + 5-Why analysis · Pareto analysis · Pugh Matrix solution selection · SQL analytics queries · Power BI dashboard specs · Control charts · 47-deliverable program register · Three division case studies
